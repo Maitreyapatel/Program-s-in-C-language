@@ -1,2 +1,3 @@
-# first-time
-I am doing my practice in C language and I am new at coding part.And I want to take my lavel to ADVANCE.So, If anyone can help me , please help me.
+# C language
+Here, I am puting some of my program that works perfactly and easy to understand.Because I had just started to learn c language.
+If there is some mistake please tell me.
